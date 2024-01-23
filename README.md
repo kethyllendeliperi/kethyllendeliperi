@@ -1,6 +1,6 @@
 <h1>Olá, meu nome é Kethyllen!</h1>
 
-<h3>Sejam bem-vindos ✨</h3>
+<h2>Sejam bem-vindos ✨</h2>
         <a href="https://github.com/kethyllendeliperi/github-readme-stats">
             <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kethyllendeliperi&theme=onedark&show_icons=true&card_width=320" />
         </a>
